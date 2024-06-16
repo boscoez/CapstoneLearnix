@@ -10,7 +10,7 @@ function AboutPage() {
                 <h2>Devin Irby</h2>
                 <h2>Vincent Le</h2>
                 <h2>Miguel Lima <a href="https://github.com/KingOfSpadesJFK">Github</a></h2>
-                <h2>Boscoe Lindholm</h2>
+                <h2>David Boscoe Lindholm</h2>
                 <h2>Wyatt Stohr</h2>
                 <h2>Xander Thompson <a href="https://github.com/Zac-dot">Github</a></h2>
             </div>
